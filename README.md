@@ -14,7 +14,6 @@ I am a Full-Stack Developer focusing on React-Native (Mobile Development), PHP (
       <li>Front-End with Bootstrap</li>
       <li>Back-End with PHP</li>
       <li>Database services with SQL</li>
-      <li>Back-End Java Developer</li>
   </ul>
   <div>
     <img height='50em' src='https://cdn.worldvectorlogo.com/logos/java-4.svg'>
