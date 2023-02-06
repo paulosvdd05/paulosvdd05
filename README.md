@@ -1,16 +1,32 @@
-### Hi there 👋
+### Welcome to my profile!
 
-<!--
-**paulosvdd05/paulosvdd05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Full-Stack Developer focusing on React-Native (Mobile Development), PHP (Web Back-End) and JavaScript and Css/Bootstrap (Web Front-End).
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+    <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=paulosvdd05&show_icons=true&theme=dracula&count_private=true">
+    <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=paulosvdd05&layout=compact&theme=dracula">
+</div>
+
+🧰 Toolbox
+  <ul>
+      <li>Mobile with React Native</li>
+      <li>Front-End with Bootstrap</li>
+      <li>Back-End with PHP</li>
+      <li>Database services with SQL</li>
+      <li>Back-End Java Developer</li>
+  </ul>
+  <div>
+    <img height='50em' src='https://cdn.worldvectorlogo.com/logos/java-4.svg'>
+    <img height='50em' src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg">
+    <img height='50em' src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg">
+    <img height='50em' src='https://cdn.worldvectorlogo.com/logos/php-1.svg'>
+    <img height='50em' src="https://cdn.worldvectorlogo.com/logos/html-1.svg">
+    <img height='50em' src='https://cdn.worldvectorlogo.com/logos/css-3.svg'>
+    <img height='50em' src='https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg'>
+    <img height='50em' src='https://cdn.worldvectorlogo.com/logos/mysql-6.svg'>
+    
+  </div>
+
+
+ 
