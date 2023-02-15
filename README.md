@@ -9,7 +9,7 @@ I am a Full-Stack Developer focusing on React-Native (Mobile Development), PHP (
 </div>
 
   <ul>
-      <li style:"color: #f00">Mobile with React Native</li>
+      <li>Mobile with React Native</li>
       <li>Front-End with Bootstrap</li>
       <li>Back-End with PHP</li>
       <li>Database services with SQL</li>
