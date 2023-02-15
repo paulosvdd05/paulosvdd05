@@ -4,8 +4,8 @@ I am a Full-Stack Developer focusing on React-Native (Mobile Development), PHP (
 
 
 <div>
-    <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=paulosvdd05&show_icons=true&theme=cobalt&count_private=true">
-    <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=paulosvdd05&layout=compact&theme=cobalt">
+    <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=paulosvdd05&show_icons=true&theme=dark&count_private=true">
+    <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=paulosvdd05&layout=compact&theme=dark">
 </div>
 
   <ul>
