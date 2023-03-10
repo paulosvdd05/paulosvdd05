@@ -1,6 +1,6 @@
 ### Welcome to my profile!
 
-I am a Full-Stack Developer focusing on React-Native (Mobile Development), PHP (Web Back-End) and JavaScript and Css/Bootstrap (Web Front-End).
+I am a Full-Stack Developer focusing on React-Native (Mobile Development), PHP (Web Back-End), JavaScript and Css/Bootstrap (Web Front-End).
 
 
 <div>
