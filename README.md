@@ -2,11 +2,8 @@
 
 I am a Full-Stack Developer focusing on React-Native (Mobile Development), PHP (Web Back-End), JavaScript and Css/Bootstrap (Web Front-End).
 
-
-<div>
-    <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=paulosvdd05&show_icons=true&theme=tokyonight&count_private=true">
-    <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=paulosvdd05&layout=compact&theme=tokyonight&langs_count=8">
-</div>
+![](https://github-readme-stats.vercel.app/api?username=paulosvdd05&show_icons=true&theme=transparent)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=paulosvdd05&layout=compact&theme=transparent)
 
   <ul>
       <li>Mobile with React Native</li>
