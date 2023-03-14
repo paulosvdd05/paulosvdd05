@@ -1,6 +1,6 @@
-### Welcome to my profile!
+### Hi, I'm Paulo Dias!
 
-I am a Full-Stack Developer focusing on React-Native (Mobile Development), PHP (Web Back-End), JavaScript and Css/Bootstrap (Web Front-End).
+Full-Stack Developer focusing on React-Native (Mobile Development), PHP (Web Back-End), JavaScript and Css/Bootstrap (Web Front-End).
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=paulosvdd05&show_icons=true&theme=transparent" />
