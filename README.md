@@ -26,13 +26,14 @@ Full-Stack Developer focusing on React-Native (Mobile Development), PHP (Web Bac
  
   <div>
     <img height='50em' src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg">
-    <img height='50em' src="https://cdn.worldvectorlogo.com/logos/typescript.svg">
     <img height='50em' src="https://cdn.worldvectorlogo.com/logos/react-2.svg">
+    <img height='50em' src="https://cdn.worldvectorlogo.com/logos/typescript.svg">
+    <br>
     <img height='50em' src='https://cdn.worldvectorlogo.com/logos/php-1.svg'>
     <img height='50em' src="https://cdn.worldvectorlogo.com/logos/html-1.svg">
     <img height='50em' src='https://cdn.worldvectorlogo.com/logos/css-3.svg'>
     <img height='50em' src='https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg'>
-    <img height='50em' src='https://cdn.worldvectorlogo.com/logos/sql-svgrepo-com.svg'>
+  
     
   </div>
     </div>
