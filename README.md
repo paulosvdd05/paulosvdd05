@@ -1,20 +1,29 @@
-### Hi, I'm Paulo Dias!
+<div align="center">
+<h1>Hi, I'm Paulo Dias!</h1>
 
 Full-Stack Developer focusing on React-Native (Mobile Development), PHP (Web Back-End), JavaScript and Css/Bootstrap (Web Front-End).
+
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=paulosvdd05&show_icons=true&theme=transparent" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=paulosvdd05&theme=transparent" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulosvdd05&layout=compact&theme=transparent&hide=html,hack,java&langs_count=5)" />
 </a>
 
-  <ul>
-      <li>Mobile with React Native</li>
-      <li>Front-End with Bootstrap</li>
-      <li>Back-End with PHP</li>
-      <li>Database services with SQL</li>
-  </ul>
+
+  <div>
+      <h1>Skills</h1>
+      Mobile with React Native<br>
+      Front-End with Bootstrap<br>
+      Back-End with PHP<br>
+      Database services with SQL<br>
+  </div>
+  <br>
+ 
   <div>
     <img height='50em' src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg">
     <img height='50em' src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg">
@@ -25,6 +34,8 @@ Full-Stack Developer focusing on React-Native (Mobile Development), PHP (Web Bac
     <img height='50em' src='https://cdn.worldvectorlogo.com/logos/mysql-6.svg'>
     
   </div>
+    </div>
+  
 
 
  
