@@ -1,7 +1,7 @@
 <div align="center">
 <h1>Hi, I'm Paulo Dias!</h1>
 
-Full-Stack Developer focusing on React-Native (Mobile Development), PHP (Web Back-End), JavaScript and Css/Bootstrap (Web Front-End).
+Full-Stack Developer focusing on React-Native (Mobile Development),<br> PHP (Web Back-End), JavaScript and Css/Bootstrap (Web Front-End).
 
 <br>
 <a href="https://github.com/anuraghazra/convoychat">
