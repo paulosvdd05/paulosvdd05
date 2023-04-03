@@ -3,10 +3,12 @@
 
 Full-Stack Developer focusing on React-Native (Mobile Development),<br> PHP (Web Back-End), JavaScript and Css/Bootstrap (Web Front-End).
 
+
+
+ 
+<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=paulosvdd05&theme=transparent" />
 <br>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=paulosvdd05&theme=transparent" />
-</a>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=transparent" />
 
 
 
