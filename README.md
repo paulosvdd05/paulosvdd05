@@ -19,8 +19,8 @@ Full-Stack Developer focusing on React-Native (Mobile Development),<br> PHP (Web
   <div>
       <h1>Skills</h1>
       Mobile with React Native<br>
-      Front-End with Bootstrap<br>
-      Back-End with PHP<br>
+      Web Front-End with Bootstrap<br>
+      Web Back-End with PHP<br>
       Database services with SQL<br>
   </div>
   <br>
