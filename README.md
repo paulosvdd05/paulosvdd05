@@ -13,29 +13,26 @@ Full-Stack Developer focusing on React-Native (Mobile Development),<br> PHP (Web
  
 <br>
 
-
-
-
-  <div>
-      <h1>Skills</h1>
-      Mobile with React Native and Node.js<br>
-      Web Front-End with Bootstrap<br>
-      Web Back-End with PHP<br>
-      Database services with SQL<br>
-  </div>
-  <br>
   
   <div>
-    <img height='50em' src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg">
-    <img height='50em' src="https://cdn.worldvectorlogo.com/logos/react-2.svg">
-    <img height='50em' src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png">
-    <img height='50em' src="https://cdn.worldvectorlogo.com/logos/typescript.svg">
+  <h1>MOBILE</h1>
+    <img height='40em' src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+    <img height='40em' src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"><br>
+    <img height='40em' src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+    <img height='40em' src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
     <br>
-    <img height='50em' src='https://cdn.worldvectorlogo.com/logos/php-1.svg'>
-    <img height='50em' src="https://cdn.worldvectorlogo.com/logos/html-1.svg">
-    <img height='50em' src='https://cdn.worldvectorlogo.com/logos/css-3.svg'>
-    <img height='50em' src='https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg'>
-  
+    <h1>WEB</h1>
+    <img height='40em' src='https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white'>  
+    <img height='40em' src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'><br>  
+    <img height='40em' src='https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white'>
+    <img height='40em' src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+    <img height='40em' src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'>
+    <h1>SQL</h1>
+    <img height='40em' src='https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white'><br>
+    <img height='40em' src='https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white'>  
+    <img height='40em' src='https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white'>
+    <img height='40em' src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+    
     
   </div>
     </div>
