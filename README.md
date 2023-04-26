@@ -18,16 +18,17 @@ Full-Stack Developer focusing on React-Native (Mobile Development),<br> PHP (Web
 
   <div>
       <h1>Skills</h1>
-      Mobile with React Native<br>
+      Mobile with React Native and Node.js<br>
       Web Front-End with Bootstrap<br>
       Web Back-End with PHP<br>
       Database services with SQL<br>
   </div>
   <br>
- 
+  
   <div>
     <img height='50em' src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg">
     <img height='50em' src="https://cdn.worldvectorlogo.com/logos/react-2.svg">
+    <img height='50em' src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png">
     <img height='50em' src="https://cdn.worldvectorlogo.com/logos/typescript.svg">
     <br>
     <img height='50em' src='https://cdn.worldvectorlogo.com/logos/php-1.svg'>
