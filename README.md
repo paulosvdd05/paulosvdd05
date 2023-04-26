@@ -1,7 +1,7 @@
 <div align="center">
 <h1>Hi, I'm Paulo Dias!</h1>
 
-Full-Stack Developer focusing on React-Native (Mobile Development),<br> PHP (Web Back-End), JavaScript and Css/Bootstrap (Web Front-End).
+Full-Stack Developer focusing on React-Native and Node.js (Mobile),<br> PHP (Web Back-End), React and Bootstrap (Web Front-End).
 
 
 
