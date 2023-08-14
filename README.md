@@ -6,9 +6,9 @@ Full-Stack Developer focusing on React-Native and Node.js (Mobile),<br> PHP (Web
 
 
  
-<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=paulosvdd05&theme=transparent" />
+<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=paulosvdd05&theme=dark" />
  <br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulosvdd05&layout=compact&theme=transparent&hide=java,css&langs_count=4" />
+<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=paulosvdd05&layout=donut-vertical&theme=dark&hide=java,css&langs_count=4" />
  
  
 <br>
