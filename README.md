@@ -1,14 +1,14 @@
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F98404&center=true&vCenter=true&width=435&lines=Hi!+This+is+Paulo+👋;Welcome+to+my+Github+profile" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=006AFF&center=true&vCenter=true&width=435&lines=Hi!+This+is+Paulo+👋;Welcome+to+my+Github+profile" alt="Typing SVG" /></a>
 
 Full-Stack Developer focusing on React-Native and Node.js (Mobile),<br> PHP (Web Back-End), React and Bootstrap (Web Front-End).
 
 
 
  
-<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=paulosvdd05&theme=dark" />
+<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=paulosvdd05&theme=transparent" />
  <br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulosvdd05&layout=compact&theme=dark&hide=css,html&langs_count=4" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulosvdd05&layout=compact&theme=transparent&hide=css,html&langs_count=4" />
  
  
 <br>
