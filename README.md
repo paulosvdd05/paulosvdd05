@@ -21,6 +21,7 @@ Full-Stack Developer focusing on React-Native and Node.js (Mobile),<br> PHP (Web
     <img height='35em' src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
     <img height='35em' src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
    <img height='35em' src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+   <img height='35em' src="https://img.shields.io/badge/Kotlin-B224EA?style=for-the-badge&logo=kotlin&logoColor=white">
     <br>
     <h1>WEB</h1>
     <img height='35em' src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'>
