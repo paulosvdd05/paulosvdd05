@@ -2,6 +2,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=006AFF&center=true&vCenter=true&width=435&lines=Hi!+This+is+Paulo+👋;Welcome+to+my+Github+profile" alt="Typing SVG" /></a>
 
 Full-Stack Developer focusing on React-Native and Node.js (Mobile),<br> PHP (Web Back-End), React and Bootstrap (Web Front-End).
+<br><a href="https://play.google.com/store/apps/dev?id=5563206916169361553">Google Play Profile</a>
 
 
 
