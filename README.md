@@ -1,7 +1,6 @@
 <div align="center">
 
 Full-Stack Developer focusing on React-Native and Node.js (Mobile),<br> PHP (Web Back-End), React and Bootstrap (Web Front-End).
-<br><a href="https://play.google.com/store/apps/dev?id=5563206916169361553">Google Play Profile</a>
 
 
 
